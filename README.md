@@ -5,7 +5,7 @@ The purpose of **on-boarding screens** is to introduce your mobile app and demon
 ## PREVIEW
 ![](https://i.ibb.co/5sc8VrJ/onboarding-screen.gif)
 
-##BUILD ONBOARDING_SCREENS IN 5MIN
+## BUILD ONBOARDING_SCREENS IN 5MIN
 ##### First of all you need to create the needed fragment; 
 - SplashScreen (the first screen to be showen), 
 - ViewPagerFragment (the fragment that will contain OnBoardingScreens ),
