@@ -14,13 +14,13 @@ The purpose of **on-boarding screens** is to introduce your mobile app and demon
 
 ##### Then create the navigation graph
 - Add nav_host to mainActivity,
-- Create transactions
+- Create transactions.
 
 ##### Create adapter to viewPagerFragement
-basically it is a class that extends the abstract class FragmentStateAdapter, then use this adapter in viewPagerFragement. the goal here is to add the OnBoardingScreens viewPager component. 
+Basically it is a class that extends the abstract class FragmentStateAdapter, then use this adapter in viewPagerFragement. the goal here is to add the OnBoardingScreens viewPager component. 
 
 ##### SetSharePreferences 
-to make sure that the onBoardingScreens will show only once, we are going to put a "flag" on true if the user completed onBoarding (look ThirdOnBoardScreen.kt)
+To make sure that the onBoardingScreens will show only once, we are going to put a "flag" on true if the user completed onBoarding (look ThirdOnBoardScreen.kt)
 
 ##### Make sure to handle navigation BackStack
 
